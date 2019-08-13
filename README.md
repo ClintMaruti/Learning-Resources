@@ -39,6 +39,7 @@
   * [Tania Rascia - Setting up a RESTful API with Node.js and PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)
   * [Tania Rascia - Create and Deploy a Node.js, Express, & PostgreSQL REST API to Heroku](https://www.taniarascia.com/node-express-postgresql-heroku/)
   * [Table Plus - How to start and stop PostgreSQL server?](https://tableplus.io/blog/2018/10/how-to-start-stop-restart-postgresql-server.html)
+  * [Andrew Chung Creating a testing environment for the Node database](https://medium.com/@chung.andrew7/node-testing-environment-for-database-64780be50ad0)
 
 
 
@@ -67,6 +68,9 @@
   * [Getting Started With Travis CI](https://docs.travis-ci.com/user/for-beginners/)
   * [Introduction - Writing OpenAPI (Swagger) Specification Tutorial](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
   * [OpenAPI 3.0 - Design and Document APIs with the Latest OpenAPI Specification 3.0](https://www.youtube.com/watch?v=6kwmW_p_Tig&amp=&t=1229s)
+  
+## Dev Community
+* [Dev Community](https://dev.to/)
 
 
 
